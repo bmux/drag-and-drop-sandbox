@@ -1,4 +1,10 @@
+@import 'functions.scss';
+
+@import 'reset.scss';
+
 @import 'colors.scss';
+@import 'dimensions.scss';
+@import 'fonts.scss';
 
 
-@import '../gizmos/drag-and-drop.scss';
+@import '../ui-elements/drag-and-drop.scss';
