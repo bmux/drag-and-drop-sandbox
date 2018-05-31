@@ -1,5 +1,4 @@
 // JavaScript Document
-alert('hello');
 $("document").ready(function () {
   emptyTargetResizing();
 
